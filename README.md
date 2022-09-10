@@ -30,6 +30,9 @@
 - [테스트 주도 개발로 배우는 객체 지향 설계와 실천](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260836&orderClick=LAG&Kc=) - Steve Freeman, Nat Pryce
 - 테스트 주도 개발 | 고품질 쾌속개발을 위한 TDD 실천법과 도구 - 채수원
 
+### ETC.
+- [함께 자라기 - 애자일로 가는 길](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262335&orderClick=LAG&Kc=) - 김창준
+
 
 ## Skills & Languages
 
