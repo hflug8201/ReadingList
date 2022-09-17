@@ -23,7 +23,7 @@
 
 ### For Clean and Better Codes
 - 리팩토링 | 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기, - Martin Fowler
-- 클린코드 | 클린 코드, 애자일 소프트웨어 장인 정신 - Robert C. Martin
+- [클린코드 | 클린 코드, 애자일 소프트웨어 장인 정신](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LAG&Kc=) - Robert C. Martin
 
 ### Test Driven
 - [테스트 주도 개발](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261024&orderClick=LAG&Kc=) - Kent Beck
